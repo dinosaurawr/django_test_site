@@ -134,6 +134,7 @@ STATICFILES_DIRS = (
 LOGIN_URL = 'mysite_login'
 LOGOUT_URL = 'mysite_logout'
 LOGIN_REDIRECT_URL = 'marcador_bookmark_list'
+LOGOUT_REDIRECT_URL = 'marcador_bookmark_list'
 
 #Crispy constants
 
